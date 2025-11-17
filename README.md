@@ -1,4 +1,4 @@
-#Fundamentals of Bioinformatics>
+
 <p align="center">
     <img src="images/bioinformatics-course-card.png" width="400" />
 </p>
