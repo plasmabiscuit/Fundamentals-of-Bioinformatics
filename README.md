@@ -1,6 +1,6 @@
 
 <p align="center">
-    <img src="images/bioinformatics-course-card.png" width="400" />
+    <img src="images/bashbioinformatics-course-card.png" width="400" />
 </p>
 
 This module introduces you to the [Bash shell scripting language](https://devhints.io/bash)), working with common genomics file formats, and working within the terminal environment. In addition to the overview given in this README you will find 6 submodules in the forms of Jupyter notebooks that teach you different components of working with genomics data in the cloud. This module can be run on either [Google Cloud Platform (GCP)](https://github.com/NIGMS/Fundamentals-of-Bioinformatics/tree/main/GoogleCloud/) or [Amazon Web Services (AWS)](https://github.com/NIGMS/Fundamentals-of-Bioinformatics/tree/main/AWS/)
